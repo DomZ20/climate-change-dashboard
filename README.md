@@ -2,6 +2,7 @@
 
 A data-driven interactive dashboard visualizing global climate change indicators, trends, and projections. Built to raise awareness and empower users with accessible insights into our planet’s changing climate.
 
+
 ## Features
 
 *  Interactive graphs of temperature anomalies, Methane and Carbon dioxide levels
@@ -11,16 +12,18 @@ A data-driven interactive dashboard visualizing global climate change indicators
 
 
 ## Built Using
+
 * **Data**: NASA
 * **Hosting**: Tableau Public
 
 
 ## Screenshot
 
-![Screenshot 1](![screenshot](https://github.com/user-attachments/assets/41edae4d-f2f6-4c7d-89b5-38c8771cc6ee))
+![Climate Change Dashboard Screenshot](https://github.com/user-attachments/assets/34de700a-c483-40cb-b942-00b52587375f)
 
 
 ## How to use
+
 Download the .twbx file and configure in Tableau Public, the datasets included in the repository can be used in your own dataset.
 
 
@@ -28,7 +31,7 @@ Download the .twbx file and configure in Tableau Public, the datasets included i
 
 * [NASA Global Temperature](https://climate.nasa.gov/vital-signs/global-temperature/?intent=121)
 * [NASA Methane](https://climate.nasa.gov/vital-signs/methane/?intent=121)
-* [NASA Carbon Dioxide ]([https://www.ipcc.ch/reports/](https://climate.nasa.gov/vital-signs/carbon-dioxide/?intent=121))
+* [NASA Carbon Dioxide](https://climate.nasa.gov/vital-signs/carbon-dioxide/?intent=121)
 
 
 ## License
@@ -59,4 +62,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 For questions or collaboration inquiries, contact: [vudominic832@gmail.com](mailto:vudominic832@gmail.com)
-</details> ```
+</details>
