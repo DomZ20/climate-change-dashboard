@@ -1,6 +1,8 @@
 # Climate Change Dashboard
 
-A data-driven interactive dashboard visualizing global climate change indicators, trends, and projections. Built to raise awareness and empower users with accessible insights into our planet’s changing climate.
+A data-driven interactive dashboard visualizing global climate change indicators, trends, and projections. Built to raise awareness and empower users with accessible insights into our planet’s changing climate. 
+
+Full report [here](https://docs.google.com/document/d/1VzDoGT-KH7qdW5TnWhLH7H_xGExaZFSIlP3iCf69Itk/edit?usp=sharing).
 
 
 ## Features
